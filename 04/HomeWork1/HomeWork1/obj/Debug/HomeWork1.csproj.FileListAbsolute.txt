@@ -1,0 +1,6 @@
+E:\Мои документы\Epam\HomeWork\01\HomeWork1\HomeWork1\bin\Debug\HomeWork1.exe.config
+E:\Мои документы\Epam\HomeWork\01\HomeWork1\HomeWork1\bin\Debug\HomeWork1.exe
+E:\Мои документы\Epam\HomeWork\01\HomeWork1\HomeWork1\bin\Debug\HomeWork1.pdb
+E:\Мои документы\Epam\HomeWork\01\HomeWork1\HomeWork1\obj\Debug\HomeWork1.csprojResolveAssemblyReference.cache
+E:\Мои документы\Epam\HomeWork\01\HomeWork1\HomeWork1\obj\Debug\HomeWork1.exe
+E:\Мои документы\Epam\HomeWork\01\HomeWork1\HomeWork1\obj\Debug\HomeWork1.pdb
