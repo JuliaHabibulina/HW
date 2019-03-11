@@ -1,0 +1,6 @@
+E:\Epam\HW\05\HW_05\bin\Debug\HW_05.exe.config
+E:\Epam\HW\05\HW_05\bin\Debug\HW_05.exe
+E:\Epam\HW\05\HW_05\bin\Debug\HW_05.pdb
+E:\Epam\HW\05\HW_05\obj\Debug\HW_05.csprojResolveAssemblyReference.cache
+E:\Epam\HW\05\HW_05\obj\Debug\HW_05.exe
+E:\Epam\HW\05\HW_05\obj\Debug\HW_05.pdb
